@@ -1,0 +1,8 @@
+{
+  "name": "product-designer",
+  "description": "An evidence-driven Senior Product Designer skill for Claude: discovery, hypotheses, flows, critique, prioritisation, test plans, specs and metrics.",
+  "version": "1.0.0",
+  "author": { "name": "apkolota" },
+  "license": "MIT",
+  "keywords": ["product-design", "ux", "ux-research", "design-critique", "skill"]
+}
